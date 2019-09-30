@@ -1,5 +1,7 @@
 # SpaceGame - Web
 
+[![Build Status](https://dev.azure.com/Tailspin4201337/Space%20Game%20-%20Web/_apis/build/status/Sharparam.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin4201337/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
+
 A repository for following the DevOps learning path.
 
 ## Contributing
